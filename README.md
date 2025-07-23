@@ -5,4 +5,4 @@ This repository contains my individual contribution to a group project where we 
 - Then using hall sensors input I programmed FPGA to implement six step commutation logic for Gate driver ICs (IR2110).
 ![SixStep](Images&Video/six_step_commutation.png)
 - We tested out setup using oscilloscope and integrated with out FPGA.
-[Watch Demo Video](https://drive.google.com/drive/folders/1dEPLctOtZOhWvlEEKNbfVZZVa_7WYdhv)
+[![Watch Demo](https://img.youtube.com/vi/Jrmsi-v2h4o.jpg)](https://www.youtube.com/shorts/Jrmsi-v2h4o)
