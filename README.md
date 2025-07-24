@@ -7,4 +7,4 @@ This repository contains my individual contribution to a group project where we 
 ![PWM](Images&Video/pwm_generation.png)
 - Then using hall sensors input I programmed FPGA to implement six step commutation logic for Gate driver ICs (IR2110).
 ![SixStep](Images&Video/six_step_commutation.png)
-- We tested out setup using oscilloscope and integrated with out FPGA.
+- We tested out setup using oscilloscope and integrated with our FPGA.
